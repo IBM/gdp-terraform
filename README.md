@@ -1,1 +1,1 @@
-# gdp-terraform
+# guardium-terraform
